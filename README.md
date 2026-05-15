@@ -64,10 +64,12 @@ The model identified that HbA1c_level and blood_glucose_level contribute the mos
 The matrix reveals the trade-off made for safety. By accepting slightly more False Positives (top-right), we successfully pushed our False Negatives (bottom-left) to a lower, safer level for medical screening.
 
 ## Model Performance Summary
-Model              Accuracy       ROC AUC
-XGBoost (Tuned)      95.14%        0.9762
-Random Forest        95.87%        0.9653
-Logistic Regression  88.66%        0.9604
+
+XGBoost (Tuned)-  Accuracy: 95.14%, ROC: 0.9762
+
+Random Forest- Accuracy: 95.87%, ROC: 0.9653
+
+Logistic Regression- Accuracy: 88.66%, ROC: 0.9604
 
 ## How to Run
 
