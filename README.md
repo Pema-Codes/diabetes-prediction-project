@@ -96,3 +96,7 @@ model = joblib.load('best_xgboost_model.pkl')
 * GitHub: [@Pema-Codes](https://github.com/Pema-Codes)
   
 * LinkedIn: [Pema Sherpa](https://www.linkedin.com/in/pema-sherpa-206957154/)
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
