@@ -59,9 +59,13 @@ I used GridSearchCV to solve for Variance (Overfitting).
 
 The model identified that HbA1c_level and blood_glucose_level contribute the most to the diagnostic decision. This aligns with clinical standards, validating that the model learned medical logic, not just random correlations.
 
-### Confusion Matrix Analysis
+![Feature Importance](images/feature_importance.png)
+
+#### Confusion Matrix Analysis
 
 The matrix reveals the trade-off made for safety. By accepting slightly more False Positives (top-right), we successfully pushed our False Negatives (bottom-left) to a lower, safer level for medical screening.
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Model Performance Summary
 
