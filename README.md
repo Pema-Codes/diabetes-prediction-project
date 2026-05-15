@@ -88,3 +88,11 @@ Load the model:
 import joblib 
 
 model = joblib.load('best_xgboost_model.pkl')
+
+## Author
+
+**Pema**
+
+* GitHub: [@Pema-Codes](https://github.com/Pema-Codes)
+  
+* LinkedIn: [Pema Sherpa](https://www.linkedin.com/in/pema-sherpa-206957154/)
